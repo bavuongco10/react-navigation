@@ -52,7 +52,7 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
-    "@blueprintjs/core": "^1.0.1",
+    "@blueprintjs/core": "^2.0.0",
     "prismjs": "^1.6.0",
     "react": "~15.3.2",
     "react-addons-css-transition-group": "~15.3.2",
